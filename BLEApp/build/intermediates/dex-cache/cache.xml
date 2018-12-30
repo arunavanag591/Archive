@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\pre-dexed\debug\classes-7a4b18361575232c2a3547f932fafa001d558f05.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEET\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-0a2edd64fcf08cfbf040e489132acdd8958c9308.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\pre-dexed\debug\classes-ff7430ac82782b81ce38d98414ac8449b5633346.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\pre-dexed\debug\classes-7956e1a9fabe6ac1b7a69b952712dcb07147d54e.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\pre-dexed\debug\classes-80fede420117f9c8349c3b380a9457414dc5b047.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\pre-dexed\debug\classes-5ff4d7094d7ace1311af85251a8c1883124f34d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\pre-dexed\debug\classes-dca2509a4b62d0534e658d7b44742a91e1e5b705.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\pre-dexed\debug\classes-5335c62f9d4c30951e4dd08179a58fc95ac6857c.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\pre-dexed\debug\classes-1e785cb85de2d42529c16d43527814a9b048c5d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\pre-dexed\debug\classes-9b869708189cdfc8e3b0179b916860e18b85e74d.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\pre-dexed\debug\classes-967d877560a63f740609711bddbcd6322ff31b1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\pre-dexed\debug\classes-a72c4455b4e47cebc66860008a7d1afe1246c455.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\pre-dexed\debug\classes-38f8ba2ed815db861faa573004575483215a1858.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\pre-dexed\debug\classes-d96099549502c19dcfdef71b31d477448576f7e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\pre-dexed\debug\classes-33c2cf3c6d012d5dc41ff12c996aca6a63a31e3b.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\pre-dexed\debug\classes-42184ac3f6b1cfe2ce7e6cbed4e5d14cc7f567b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\pre-dexed\debug\classes-e25fda16981406a5858893ce9c0ccf58cfeeb6f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\pre-dexed\debug\classes-c39a0ffd11ab30def5833c7129f1917fff4c8bda.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\pre-dexed\debug\classes-78b293c1fcc919f88b6f4be68eb7becc0d292ced.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\pre-dexed\debug\classes-2a23148b222c4e7cc7cd592100e6f392dc27aedf.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\pre-dexed\debug\classes-16692316b691098e2bec8cea2d86670ca4ba3d3d.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-364e0fd777034a44d83c8c2502def42f5832ac23.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\JEET\AndroidStudioProjects\Acelaso\app\build\intermediates\pre-dexed\debug\classes-cb1275b4c8474ab809efda9c55649339893b938a.jar" />
+    </item>
+
+</items>

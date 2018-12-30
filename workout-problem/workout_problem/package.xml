@@ -1,0 +1,16 @@
+<package>
+  <name>workout_problem</name>
+  <version>0.0.0</version>
+  <description>The workout_problem package</description>
+  <maintainer email="arunavoster@gmail.com">BlackMamba591</maintainer>
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>auto_nav</run_depend>
+  <run_depend>navigation</run_depend>
+
+  <export>
+    <metapackage/>
+  </export>
+</package>

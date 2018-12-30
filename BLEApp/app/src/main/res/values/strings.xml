@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Acelaso</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_page_two">PageTwo</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_activity_blue">BlueActivity</string>
+    <string name="on">Turn On</string>
+    <string name="off">Turn Off</string>
+    <string name="Visible">Get Visible</string>
+    <string name="List">List Devices</string>
+    <string name="Scan">Scan</string>
+    <string name="title_activity_ble_gatt">BleGattActivity</string>
+    <string name="title_activity_test">TestAct</string>
+    <string name="title_activity_new_account_page">NewAccountPage</string>
+    <string name="title_activity_forgot_password">ForgotPassword</string>
+</resources>
